@@ -13,3 +13,7 @@ git add<-file name->
 commit- it is record of change
 <br>
 git commit -m "commit message"
+<br>
+push- it is used to push the changes(upload local repo contents to remote repo)
+<br>
+git push origin main
