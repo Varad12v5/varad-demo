@@ -17,3 +17,7 @@ git commit -m "commit message"
 push- it is used to push the changes(upload local repo contents to remote repo)
 <br>
 git push origin main
+<br>
+init- used to crete a new git repo
+<br>
+git init
